@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Ariel Lázaro, a 18yo dominican guy who loves coding.
+
+### Currently learning:
+- Git & Github
+- Java
 <!--
 **Lazarito444/Lazarito444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
