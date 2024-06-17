@@ -6,6 +6,7 @@ My name is Ariel Lázaro, a 18yo dominican guy who loves coding.
 - Git & Github
 - Java
 - SpringBoot
+- C# & .NET
 <!--
 **Lazarito444/Lazarito444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
