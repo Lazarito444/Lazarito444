@@ -6,10 +6,11 @@
 $ whoami
 ariel — full stack software engineer
 
-$ tail -f ~/activity.log
-[dev]   building ExpenseLab — personal finance in Flutter
-[dev]   sharpening Clean Architecture, CQRS & DDD
-[dev]   open to learning whatever comes next
+$ tail -f ~/work.log
+[back]  designing .NET backends and clean, documented APIs
+[front] crafting Angular frontends that feel right
+[mob]   shipping Flutter apps for mobile and desktop
+[goal]  scalable & maintainable systems — always learning what's next
 [life]  🐈 cats  ·  🎮 games at night  ·  📺 streams
 
 $ ping socials
