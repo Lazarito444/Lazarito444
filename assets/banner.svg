@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Ariel Lázaro — Full Stack Software Engineer">
+  <style>
+    text { font-family: ui-monospace, 'Cascadia Code', Consolas, 'JetBrains Mono', Menlo, monospace; }
+    @keyframes blink { 0%, 55% { opacity: 1; } 60%, 100% { opacity: 0; } }
+    .cur { animation: blink 1.1s steps(1, end) infinite; }
+  </style>
+  <!-- browser window -->
+  <rect x="40" y="24" width="1120" height="212" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <path d="M40 40 A16 16 0 0 1 56 24 H1144 A16 16 0 0 1 1160 40 V68 H40 Z" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <circle cx="76" cy="46" r="7" fill="#ff5f56"/>
+  <circle cx="100" cy="46" r="7" fill="#ffbd2e"/>
+  <circle cx="124" cy="46" r="7" fill="#27c93f"/>
+  <text x="148" y="51" font-size="15" fill="#8b949e">ariel@github: ~/profile — pwsh</text>
+  <!-- faint code watermark -->
+  <text x="1146" y="208" text-anchor="end" font-size="120" fill="#e6edf3" opacity="0.05">&lt;/&gt;</text>
+  <!-- prompt -->
+  <text x="86" y="112" font-size="19" fill="#7ee787">PS C:\Users\ariel&gt; whoami</text>
+  <!-- name -->
+  <text x="82" y="170" font-size="52" font-weight="700" fill="#f0f6fc">Ariel Lázaro</text>
+  <rect x="82" y="182" width="132" height="4" rx="2" fill="#f97316"/>
+  <!-- role + blinking cursor -->
+  <text x="86" y="222" font-size="20"><tspan fill="#8b949e">full stack software engineer</tspan><tspan dx="10" fill="#f97316" class="cur">▍</tspan></text>
+</svg>
