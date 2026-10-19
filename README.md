@@ -26,7 +26,7 @@ PS C:\Users\ariel> ping socials
 <img width="100%" src="https://activity-graph.vercel.app/graph?username=lazarito444&theme=react-dark&area=true&hide_border=true" alt="Activity graph"/>
 
 <div align="center"><strong>· languages ·</strong><br><br>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,py,dart,html,css&perline=9" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,py,dart,go,html,css" alt="Languages"/>
 </div>
 
 <div align="center"><strong>· frontend & mobile ·</strong><br><br>
