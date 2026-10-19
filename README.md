@@ -31,7 +31,7 @@ $ ping socials
 </div>
 
 <div align="center"><strong>· frameworks ·</strong><br><br>
-<img src="https://skillicons.dev/icons?i=angular,flutter,tailwind,bootstrap,astro&perline=5" alt="Frameworks and mobile"/>
+<img src="https://skillicons.dev/icons?i=angular,flutter,tailwind,bootstrap,astro&perline=5" alt="Frameworks and mobile"/><img height="47" style="margin-left:6px" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
 </div>
 
 <div align="center"><strong>· data, cloud & tools ·</strong><br><br>
