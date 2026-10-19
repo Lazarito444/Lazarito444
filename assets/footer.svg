@@ -7,7 +7,7 @@
   <rect x="40" y="0" width="1120" height="84" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
   <!-- shell pill -->
   <rect x="74" y="22" width="192" height="40" rx="20" fill="#0f2e1d" stroke="#1f6f3f"/>
-  <text x="94" y="48" font-size="15" fill="#7ee787">● powershell 7</text>
+  <text x="94" y="48" font-size="15" fill="#7ee787">● bash 5.2</text>
   <!-- message -->
   <text x="600" y="49" text-anchor="middle" font-size="17" fill="#8b949e">— thanks for stopping by —</text>
   <!-- exit pill -->

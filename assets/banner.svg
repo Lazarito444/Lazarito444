@@ -10,11 +10,11 @@
   <circle cx="76" cy="46" r="7" fill="#ff5f56"/>
   <circle cx="100" cy="46" r="7" fill="#ffbd2e"/>
   <circle cx="124" cy="46" r="7" fill="#27c93f"/>
-  <text x="148" y="51" font-size="15" fill="#8b949e">ariel@github: ~/profile — pwsh</text>
+  <text x="148" y="51" font-size="15" fill="#8b949e">ariel@github: ~/profile — bash</text>
   <!-- faint code watermark -->
   <text x="1146" y="208" text-anchor="end" font-size="120" fill="#e6edf3" opacity="0.05">&lt;/&gt;</text>
   <!-- prompt -->
-  <text x="86" y="112" font-size="19" fill="#7ee787">PS C:\Users\ariel&gt; whoami</text>
+  <text x="86" y="112" font-size="19" fill="#7ee787">ariel@github:~$ whoami</text>
   <!-- name -->
   <text x="82" y="170" font-size="52" font-weight="700" fill="#f0f6fc">Ariel Lázaro</text>
   <rect x="82" y="182" width="132" height="4" rx="2" fill="#f97316"/>

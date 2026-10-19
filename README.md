@@ -2,17 +2,17 @@
 
 ## 🖥️ whoami
 
-```powershell
-PS C:\Users\ariel> whoami
-lazarito444\full-stack-developer
+```bash
+$ whoami
+ariel — full stack software engineer
 
-PS C:\Users\ariel> Get-Help active
-- 🔭 building Questify — gamified habit tracker with Clean Architecture + DDD
-- 💬 ask me about .NET, Angular, Flutter, DDD
-- 🌱 always learning, currently sharpening CQRS and domain-driven design
-- 🐈 cat handler · 🎮 night gamer · 📺 stream enjoyer
+$ tail -f ~/activity.log
+[dev]   building ExpenseLab — personal finance in Flutter
+[dev]   sharpening Clean Architecture, CQRS & DDD
+[dev]   open to learning whatever comes next
+[life]  🐈 cats  ·  🎮 games at night  ·  📺 streams
 
-PS C:\Users\ariel> ping socials
+$ ping socials
 ```
 
 <div align="center">
