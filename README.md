@@ -11,7 +11,7 @@ $ tail -f ~/work.log
 [front] crafting interfaces that feel effortless to use
 [mob]   shipping apps that live on your phone and your desk
 [goal]  scalable & maintainable — always learning what's next
-[life]  🐈 cats  ·  🎮 games at night  ·  📺 streams
+[life]  🐈 cat owner  ·  🎧 always listening to music  ·  😎 chill guy
 
 $ ping socials
 ```
