@@ -7,10 +7,10 @@ $ whoami
 ariel — full stack software engineer
 
 $ tail -f ~/work.log
-[back]  designing .NET backends and clean, documented APIs
-[front] crafting Angular frontends that feel right
-[mob]   shipping Flutter apps for mobile and desktop
-[goal]  scalable & maintainable systems — always learning what's next
+[back]  designing APIs and services that stay clean at scale
+[front] crafting interfaces that feel effortless to use
+[mob]   shipping apps that live on your phone and your desk
+[goal]  scalable & maintainable — always learning what's next
 [life]  🐈 cats  ·  🎮 games at night  ·  📺 streams
 
 $ ping socials
