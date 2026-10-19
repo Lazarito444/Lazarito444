@@ -31,11 +31,11 @@ $ ping socials
 </div>
 
 <div align="center"><strong>· frameworks ·</strong><br><br>
-<img src="https://skillicons.dev/icons?i=angular,flutter,tailwind,bootstrap,firebase&perline=5" alt="Frameworks and mobile"/>
+<img src="https://skillicons.dev/icons?i=angular,flutter,tailwind,bootstrap,astro&perline=5" alt="Frameworks and mobile"/>
 </div>
 
 <div align="center"><strong>· data, cloud & tools ·</strong><br><br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,azure,docker,git,github,postman,nginx&perline=9" alt="Data, cloud and tools"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase,azure,docker,git,github,postman,nginx&perline=10" alt="Data, cloud and tools"/> <img height="47" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </div>
 
 ## 🚀 Featured Projects
