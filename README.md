@@ -18,7 +18,7 @@ PS C:\Users\ariel> ping socials
 <div align="center">
   <a href="https://linkedin.com/in/lazarito444"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://instagram.com/@LazaDev_"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a>
-  <a href="https://youtube.com/@@LazaDev"><img src="https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/@LazaDev"><img src="https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/></a>
 </div>
 
 ## 📊 Contribution Graph
