@@ -23,7 +23,7 @@ PS C:\Users\ariel> ping socials
 
 ## 📊 Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lazarito444&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20graph" alt="Activity graph"/>
+<img width="100%" src="https://activity-graph.vercel.app/graph?username=lazarito444&theme=react-dark&area=true&hide_border=true" alt="Activity graph"/>
 
 <div align="center"><strong>· languages ·</strong><br><br>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,py,dart,html,css&perline=9" alt="Languages"/>
