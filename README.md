@@ -10,7 +10,7 @@ $ tail -f ~/work.log
 [back]  designing APIs and services that stay clean at scale
 [front] crafting interfaces that feel effortless to use
 [mob]   shipping apps that live on your phone and your desk
-[goal]  scalable & maintainable — always learning what comes next
+[goal]  scalable and maintainable — always learning what comes next
 [life]  🐈 cat owner  ·  🎧 always listening to music  ·  😎 chill guy
 
 $ ping socials
