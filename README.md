@@ -41,10 +41,7 @@ PS C:\Users\ariel> ping socials
 
 | | Project | About | Stack |
 |:--|:--|:--|:--|
-| ⚡ | [**Questify**](https://github.com/Lazarito444/Questify) | Gamified habit & task tracker — streak multipliers, coin economy, clean architecture + DDD | `Flutter` `Drift` `Riverpod` |
-| 🌐 | [**UrbanPulse**](https://github.com/Lazarito444/UrbanPulse) | Geo-social incident reporting — consensus trust engine, live chat rooms, geospatial heatmaps | `.NET` `CQRS` `SignalR` `Redis` |
 | 💸 | [**ExpenseLab**](https://github.com/Lazarito444/ExpenseLab) | Mobile-first personal finance — income, expenses, savings & budgets with clear insights | `Flutter` `Drift` |
-| 💈 | [**Trimmr**](https://github.com/Lazarito444/Trimmr) | Barbershop booking — barbers open their digital chair, clients discover, book & review | `.NET` `Angular` |
 
 ## 💭 Dev Quote
 
