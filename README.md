@@ -37,7 +37,7 @@ $ ping socials
 <div align="center"><strong>· data, cloud & tools ·</strong><br><br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase,azure,docker,git,github&perline=8" alt="Data and cloud"/>
 <br>
-<img src="https://skillicons.dev/icons?i=postman,nginx&perline=2" alt="API and web tools"/><img height="47" style="margin-left:6px" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://skillicons.dev/icons?i=postman,nginx&perline=2" alt="API and web tools"/><img height="47" style="margin-left:6px" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/><img height="47" style="margin-left:6px" src="https://img.shields.io/badge/IIS-0073cf?style=for-the-badge&logoColor=white" alt="IIS"/>
 </div>
 
 ## 🚀 Featured Projects
