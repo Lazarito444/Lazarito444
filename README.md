@@ -30,8 +30,8 @@ $ ping socials
 <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,py,dart,go,html,css" alt="Languages"/>
 </div>
 
-<div align="center"><strong>· frontend & mobile ·</strong><br><br>
-<img src="https://skillicons.dev/icons?i=angular,flutter,tailwind,bootstrap,firebase&perline=5" alt="Frontend and mobile"/>
+<div align="center"><strong>· frameworks ·</strong><br><br>
+<img src="https://skillicons.dev/icons?i=angular,flutter,tailwind,bootstrap,firebase&perline=5" alt="Frameworks and mobile"/>
 </div>
 
 <div align="center"><strong>· data, cloud & tools ·</strong><br><br>
