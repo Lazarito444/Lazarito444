@@ -44,6 +44,7 @@ $ ping socials
 | | Project | About | Stack |
 |:--|:--|:--|:--|
 | 💸 | [**ExpenseLab**](https://github.com/Lazarito444/ExpenseLab) | Mobile-first personal finance — income, expenses, savings & budgets with clear insights | `Flutter` |
+| 📝 | [**Aroel**](https://github.com/Lazarito444/Aroel) | Personal journaling — introspection, emotional tracking & self-discovery | `Flutter` |
 
 ## 💭 Dev Quote
 
